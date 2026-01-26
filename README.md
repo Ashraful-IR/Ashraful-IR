@@ -1,6 +1,6 @@
 # Md Ashraful Islam
 
-# 💫 About Me:
+# About Me:
 Hello I'm Md Ashraful Islam, a graduate of Computer Science & Engineering with a keen interest in frontend development, software engineering, and system dependability.
 
 I like creating things that are scalable, readable, and useful. My work is at the nexus of sound logic, a clean user interface, and practical problem solutions. I've worked on a variety of projects, from academic systems to web applications, and I'm always honing my JavaScript, React/Next.js, C++, and backend principles abilities.
