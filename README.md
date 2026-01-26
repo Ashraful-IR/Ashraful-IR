@@ -1,7 +1,13 @@
 ## Md Ashraful Islam
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello I'm Md Ashraful Islam, a graduate of Computer Science & Engineering with a keen interest in frontend development, software engineering, and system dependability.
+
+I like creating things that are scalable, readable, and useful. My work is at the nexus of sound logic, a clean user interface, and practical problem solutions. I've worked on a variety of projects, from academic systems to web applications, and I'm always honing my JavaScript, React/Next.js, C++, and backend principles abilities.
+
+Additionally, I have a background in graphic design, which enables me to view software as something that people actually use rather than just as code. I've been studying SQA, SRE, and project management techniques lately because dependable systems are just as important as elegant ones.
+
+naturally curious, and try to learn.
 
 
 ## 🌐 Socials:
