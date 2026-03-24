@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Md Ashraful Islam
-💻 Frontend Specialist | ⚙️ Fullstack Developer | 📊 Product & QA Enthusiast<br>
+* 💻 Frontend Specialist | ⚙️ Fullstack Developer | 📊 Product & QA Enthusiast *<br>
 👋Hi there! I’m passionate about crafting web experiences where design, logic, and user needs come together seamlessly.<br>
 ✨ Frontend-focused developer with **fullstack capabilities**<br>🎯 Strong interest in **Product Management** & **Quality Assurance (QA)**<br>🧠 Problem-solver who loves turning ideas into real-world products<br>📈 Always learning, improving, and exploring new technologies<br>
 # 🛠️ Tech Stack<br>
@@ -12,7 +12,8 @@
 # 🚀 Career Goals<br>
 💼 Looking for opportunities where I can:<br><br>* Build impactful digital products<br>* Contribute to product strategy & quality<br>* Grow as a **Software Engineer / Product-minded Developer**<br>
 # 📫 Let's Connect<br>
-🤝 Open to collaboration, internships, and full-time roles<br>📌 Feel free to explore my repositories and reach out!<br><br>---<br><br>⭐ *“Building not just code, but experiences.”*<br>
+🤝 Open to collaboration, internships, and full-time roles<br>📌 Feel free to explore my repositories and reach out!<br>
+*“Building not just code, but experiences.”*<br>
 
 
 🌐 Socials:
