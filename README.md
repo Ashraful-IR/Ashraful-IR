@@ -3,8 +3,10 @@
 💻 Frontend Specialist | ⚙️ Fullstack Developer | 📊 Product & QA Enthusiast<br>
 👋Hi there! I’m passionate about crafting web experiences where design, logic, and user needs come together seamlessly.<br>
 ✨ Frontend-focused developer with **fullstack capabilities**<br>🎯 Strong interest in **Product Management** & **Quality Assurance (QA)**<br>🧠 Problem-solver who loves turning ideas into real-world products<br>📈 Always learning, improving, and exploring new technologies<br>
-🛠️ Tech Stack<br><br>💡 Frontend: HTML, Tailwind CSS, JavaScript, Next.js<br>⚙️ **Backend (Basics):** Node.js & API integration<br>💻 **Programming:** C++<br>🎨 **Design Sense:** Clean UI, responsive & user-friendly layouts<br>
-# 📂 GitHub Highlights<br><br>📌 18+ repositories showcasing:<br><br>* 🌐 Responsive web design using **HTML & Tailwind**<br>* ⚡ Interactive apps with **JavaScript**<br>* 🚀 Modern web apps built with **Next.js**<br>* 🧮 Problem-solving & logic building using **C++**<br><br>---<br><br>
+# 🛠️ Tech Stack<br>
+💡 Frontend: HTML, Tailwind CSS, JavaScript, Next.js<br>⚙️ **Backend (Basics):** Node.js & API integration<br>💻 **Programming:** C++<br>🎨 **Design Sense:** Clean UI, responsive & user-friendly layouts<br>
+# 📂 GitHub Highlights<br>
+📌 18+ repositories showcasing:<br><br>* 🌐 Responsive web design using **HTML & Tailwind**<br>* ⚡ Interactive apps with **JavaScript**<br>* 🚀 Modern web apps built with **Next.js**<br>* 🧮 Problem-solving & logic building using **C++**<br>
 # 🎯 What I Bring<br><br>✔️ Strong focus on **user experience (UX)**<br>✔️ Ability to think like a **product manager**<br>✔️ Attention to detail from a **QA mindset**<br>✔️ Clean, maintainable, and scalable code<br>
 # 🚀 Career Goals<br><br>💼 Looking for opportunities where I can:<br><br>* Build impactful digital products<br>* Contribute to product strategy & quality<br>* Grow as a **Software Engineer / Product-minded Developer**<br>
 # 📫 Let's Connect<br><br>🤝 Open to collaboration, internships, and full-time roles<br>📌 Feel free to explore my repositories and reach out!<br><br>---<br><br>⭐ *“Building not just code, but experiences.”*<br>
