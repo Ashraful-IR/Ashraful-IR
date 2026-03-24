@@ -6,7 +6,7 @@
 # 🛠️ Tech Stack<br>
 💡 Frontend: HTML, Tailwind CSS, JavaScript, Next.js<br>⚙️ **Backend (Basics):** Node.js & API integration<br>💻 **Programming:** C++<br>🎨 **Design Sense:** Clean UI, responsive & user-friendly layouts<br>
 # 📂 GitHub Highlights<br>
-📌 18+ repositories showcasing:<br><br>* 🌐 Responsive web design using **HTML & Tailwind**<br>* ⚡ Interactive apps with **JavaScript**<br>* 🚀 Modern web apps built with **Next.js**<br>* 🧮 Problem-solving & logic building using **C++**<br>
+📌 18+ repositories showcasing:<br><br> 🌐 Responsive web design using **HTML & Tailwind**<br> ⚡ Interactive apps with **JavaScript**<br> 🚀 Modern web apps built with **Next.js**<br> 🧮 Problem-solving & logic building using **C++**<br>
 # 🎯 What I Bring<br>
 ✔️ Strong focus on **user experience (UX)**<br>✔️ Ability to think like a **product manager**<br>✔️ Attention to detail from a **QA mindset**<br>✔️ Clean, maintainable, and scalable code<br>
 # 🚀 Career Goals<br>
