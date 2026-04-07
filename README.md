@@ -1,4 +1,5 @@
-<img width="1375" height="768" alt="banner" src="https://github.com/user-attachments/assets/8b0c1b57-38f5-4ddc-9976-5108aafa5fc0" />
+
+<img width="1375" height="768" alt="b" src="https://github.com/user-attachments/assets/5df8e5b7-ba09-43f7-b801-acb9aa1b8074" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=014f86&center=true&vCenter=true&width=700&lines=Welcome+to+my+Encyclopedia;Explore.+Connect.+Build.+Repeat." />
