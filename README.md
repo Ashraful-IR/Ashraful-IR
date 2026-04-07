@@ -30,9 +30,9 @@
 </pre>
 ##  What I Bring  
 
-<table style="border-collapse: separate; border-spacing: 20px;">
+<table style="border-collapse: separate; border-spacing: 20px;align=center;">
 <tr>
-<td width="60%" valign="" style="background-color:#ddfff7; border-radius:10px;">
+<td width=60%" valign="" style="background-color:#ddfff7; border-radius:10px;">
 
 ✔️ Strong focus on **user experience (UX)**  
 ✔️ Ability to think like a **product manager**  
@@ -42,7 +42,7 @@
 </td>
 
 <td width="40%" align="center" style="border-radius:10px;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </td>
 </tr>
 </table>
@@ -83,7 +83,11 @@
 
 ## GitHub Stats:
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful-ir&" alt="ashraful-ir" /></p>
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful-ir&theme=dark&hide_border=true&stroke=000&background=3d314a&ring=FF5733&fire=FF6EC4&currStreakLabel=FFFFFF&dates=CCCCCC" alt="ashraful-ir" width="600" />
+</p>
 
 ## Dev Quote<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br>
