@@ -8,8 +8,6 @@
 ##### Frontend Specialist | Product & QA Enthusiast<br><br>
 
 ## About Me
-<h3>💻 Profile Function</h3>
-
 <pre>
 <span style="color:#ff6700">function</span> <span style="color:#0f4c5c">getProfileInfo</span>() {
   <span style="color:#153243">return</span> {
@@ -44,7 +42,7 @@
 </td>
 
 <td width="40%" align="center" style="border-radius:10px;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
 </td>
 </tr>
 </table>
