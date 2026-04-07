@@ -30,6 +30,8 @@
 </pre>
 ##  What I Bring  
 
+
+<p align="center"> 
 <table style="border-collapse: separate; border-spacing: 20px;align=center;">
 <tr>
 <td width=60%" valign="" style="background-color:#ddfff7; border-radius:10px;">
@@ -46,10 +48,14 @@
 </td>
 </tr>
 </table>
+</p>
+
 
 ##  Let's Connect
 
-<table style="border-collapse: separate; border-spacing: 20px;">
+<p align="center">
+
+  <table style="border-collapse: separate; border-spacing: 20px;">
 <tr>
 
 <td width="40%" align="center" valign="top" style="border-radius:10px;">
@@ -72,6 +78,8 @@
 </tr>
 </table>
 
+</p>
+
 
 ##  Socials:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashraful-ir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifo0118@gmail.com) <br><br>
@@ -80,8 +88,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,r,vercel,nestjs,nextjs,nodejs,react,postgres,figma,ai,git,github,vscode" />
 </p><br><br>
-
-## GitHub Stats:
 
 ## GitHub Stats:
 
