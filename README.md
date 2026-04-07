@@ -92,7 +92,7 @@
 
 ## GitHub Stats:
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful-ir&theme=dark&hide_border=true&stroke=000&background=3d314a&ring=FF5733&fire=FF6EC4&currStreakLabel=FFFFFF&dates=CCCCCC" alt="ashraful-ir" width="600" />
 </p>
 
